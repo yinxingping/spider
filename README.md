@@ -1,6 +1,6 @@
 # 主要功能
 
-使用 [cli模板](https://github.com/yinxingping/my-phalcon-devtools) 开发的电商爬虫工具
+使用 [cli模板](https://github.com/yinxingping/my-phalcon-devtools) 开发的定向爬虫
 
 ## 用法举例(以图书为例)
 
